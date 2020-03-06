@@ -1,0 +1,101 @@
+
+.navbar{
+	background-color: #1e1e1e !important ;
+}
+.navbar li a {
+	color: white !important;
+	    font-size: 22px;
+    margin-top: 19px
+    	text-shadow: 5px 5px 15px solid;
+    	font-weight: bolder;
+}
+.navbar li a:hover {
+	color: #b3472d !important;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.carousel-inner .carousel-caption{
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	top: 200px;
+}
+.carousel-inner .carousel-caption h1{
+	font-weight: bolder;
+	color: #b3472d;
+	text-shadow: 5px 5px 15px solid;
+}
+.carousel-inner .btn-primary:hover{
+	color: black;
+	background-color: #b3472d;
+}
+.noidung{
+	width: 100%;
+	float: left;
+	background-color: #fafafa;
+}
+.TrangTri{
+	width: 370px;
+    margin-left: 462px;
+    margin-top: 40px;
+    text-align: center;
+}
+.TrangTri p{
+	font-size: 38px ;
+	text-shadow: 5px 5px 15px solid;
+	font-weight: bolder;
+}
+.sanpham{
+	width:100%;
+	float: left;
+	margin-top: 50px;
+}
+.sanpham .caption{
+	margin-top: 20px;
+    text-align: center;
+}
+.lienhe{
+	width: 100%;
+	min-height: 300px;
+	background-color: #272727;text-align: center;
+}
+.lienhe .thongtin{
+	width: 750px;
+    min-height: 250px;
+    background-color: #141414;
+    margin-top: 25px;
+    margin-left: 323px;
+    color: white;
+}
+.lienhe .thongtin span{
+	    font-size: 35px;
+}
+.footter{
+	width: 100%;
+	min-height: 200px;
+	background-color: #141414;
+	color: #b3472d;
+	position: absolute;
+}
+.footter span{
+	margin-left: 551px;
+    text-align: center;
+    font-size: 30px;
+}
+.footter p{
+	margin-left: 90px;
+	font-size: 15px;
+}
+.footter .icon{
+	    margin-left: 1045px;
+}
+.footter .icon img{
+	margin-right: 10px;
+}
+/*             Trang Sản Phẩm            */
+.gioithieu{
+	background-color: #272727;
+	color: white;
+	padding: 50px 50px;
+}
